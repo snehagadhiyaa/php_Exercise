@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 $students = [
     [
@@ -43,3 +44,6 @@ foreach ($students as $student) {
 }
 
 ?>
+=======
+
+>>>>>>> 6f3ddca2f6655565f501a3192a0548400cd2efc4
